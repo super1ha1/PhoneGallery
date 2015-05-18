@@ -1,7 +1,7 @@
 package com.vinako.phonegallery.storage;
 
-import com.vinako.phonegallery.checkbox.Model;
-import com.vinako.phonegallery.phone.Phone;
+import com.vinako.phonegallery.datamodel.Model;
+import com.vinako.phonegallery.datamodel.Phone;
 
 import java.util.ArrayList;
 import java.util.Hashtable;

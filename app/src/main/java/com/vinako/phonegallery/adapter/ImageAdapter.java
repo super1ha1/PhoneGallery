@@ -1,4 +1,4 @@
-package com.vinako.phonegallery.gridview;
+package com.vinako.phonegallery.adapter;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -9,9 +9,9 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
 
-import com.vinako.phonegallery.checkbox.Model;
-import com.vinako.phonegallery.phone.ImageStorage;
-import com.vinako.phonegallery.phone.Phone;
+import com.vinako.phonegallery.datamodel.Model;
+import com.vinako.phonegallery.storage.ImageStorage;
+import com.vinako.phonegallery.datamodel.Phone;
 
 import java.util.ArrayList;
 import java.util.List;

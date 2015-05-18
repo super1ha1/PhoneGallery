@@ -1,4 +1,4 @@
-package com.vinako.phonegallery.checkbox;
+package com.vinako.phonegallery.datamodel;
 
 /**
  * Created by Khue on 15/5/2015.

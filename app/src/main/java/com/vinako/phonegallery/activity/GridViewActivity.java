@@ -1,4 +1,4 @@
-package com.vinako.phonegallery.gridview;
+package com.vinako.phonegallery.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -10,9 +10,8 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
 
-import com.vinako.phonegallery.DetailActivity;
-import com.vinako.phonegallery.MainActivity;
 import com.vinako.phonegallery.R;
+import com.vinako.phonegallery.adapter.ImageAdapter;
 import com.vinako.phonegallery.storage.Storage;
 
 

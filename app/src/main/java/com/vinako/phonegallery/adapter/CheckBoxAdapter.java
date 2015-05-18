@@ -1,4 +1,4 @@
-package com.vinako.phonegallery.checkbox;
+package com.vinako.phonegallery.adapter;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -13,6 +13,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.vinako.phonegallery.R;
+import com.vinako.phonegallery.datamodel.Model;
 import com.vinako.phonegallery.storage.Storage;
 
 import java.util.ArrayList;

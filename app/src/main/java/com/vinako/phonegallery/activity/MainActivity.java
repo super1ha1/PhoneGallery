@@ -1,4 +1,4 @@
-package com.vinako.phonegallery;
+package com.vinako.phonegallery.activity;
 
 import android.app.Activity;
 import android.app.NotificationManager;
@@ -20,11 +20,11 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.vinako.phonegallery.checkbox.CheckBoxAdapter;
-import com.vinako.phonegallery.checkbox.Model;
-import com.vinako.phonegallery.gridview.GridViewActivity;
-import com.vinako.phonegallery.phone.ImageStorage;
-import com.vinako.phonegallery.phone.Phone;
+import com.vinako.phonegallery.R;
+import com.vinako.phonegallery.adapter.CheckBoxAdapter;
+import com.vinako.phonegallery.datamodel.Model;
+import com.vinako.phonegallery.storage.ImageStorage;
+import com.vinako.phonegallery.datamodel.Phone;
 import com.vinako.phonegallery.storage.Storage;
 
 import java.io.OutputStream;

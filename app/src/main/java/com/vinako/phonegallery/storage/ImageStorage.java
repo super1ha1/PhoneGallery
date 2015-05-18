@@ -1,4 +1,4 @@
-package com.vinako.phonegallery.phone;
+package com.vinako.phonegallery.storage;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

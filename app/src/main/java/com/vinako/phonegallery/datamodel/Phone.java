@@ -1,4 +1,4 @@
-package com.vinako.phonegallery.phone;
+package com.vinako.phonegallery.datamodel;
 
 import java.util.Date;
 import java.util.Random;
